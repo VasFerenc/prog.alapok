@@ -1,0 +1,31 @@
+div{
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    border: dotted burlywood;
+    border-width:5pt;
+}
+p{
+    text-justify:auto;
+    background-color: cornsilk;
+    margin: 3mm;
+    margin-top: 2mm;
+    margin-bottom: 2mm;
+    padding-right: 6mm;
+    padding-left: 6mm;
+    text-indent: 2em;
+}
+#bal{
+    width: 70%;
+}
+ #jobb{
+    width: 80%;
+    text-align: center;
+}
+.piros{
+    border-right: double 3mm darkred;
+}
+.kék{
+    padding-bottom: 1cm;
+    border-left: dashed 1mm blueviolet;
+    border-bottom: dashed 2mm blue;
+}
